@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LetsReadAbc.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>8</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>4691D9E8ECC03FCA2B47608B70A6496A6D0FFCEE</string>
+				<key>dateExpires</key>
+				<string>20.10.2026</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1.0</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>4691D9E8ECC03FCA2B47608B70A6496A6D0FFCEE</string>
+						<key>dateExpires</key>
+						<string>20.10.2026</string>
+						<key>type</key>
+						<string>Cloud Managed Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>UnityFramework.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>SP65S5PFRZ</string>
+						<key>name</key>
+						<string>Gokhan Uysal</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.0</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>SP65S5PFRZ.com.cadstudio.letsreadabcios</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>SP65S5PFRZ</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>LetsReadAbc.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>5bbb3eeb-74ab-4afe-9bb5-95bee57b03e2</string>
+				<key>dateExpires</key>
+				<string>20.10.2026</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.cadstudio.letsreadabcios</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>SP65S5PFRZ</string>
+				<key>name</key>
+				<string>Gokhan Uysal</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0.1</string>
+		</dict>
+	</array>
+</dict>
+</plist>
